@@ -1,0 +1,19 @@
+name: Follower_Kill
+version: '${project.version}'
+main: me.wellthatssad.plugins.games.followerkill.follow_kill.Main
+api-version: 1.18
+prefix: FK
+authors: [ wellthatssad ]
+description: Each time somoneone follows you on twitch you die
+website: https://github.com/Wellthatssad
+commands:
+  start:
+      description: starts the game
+  setname:
+    description: sets the username of the current
+  hardstop:
+    description: stops the game until next reload
+  stop:
+    description: stops the game
+  help:
+    usage: "/help [commands, workings, author] [internal, practice](if /help workings)"
