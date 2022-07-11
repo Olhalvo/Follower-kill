@@ -8,3 +8,5 @@ you can download from here or from the actual spigot page for the plugin
 it was originally made for 1.18.2, you can try to use different versions if you want
 ## why did you make this
 Bcuz I wanted to try http and the twitch api in Java
+## closing
+If you find any issue or maybe a better way to write it, please open an issue or pull request
